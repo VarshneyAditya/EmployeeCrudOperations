@@ -13,7 +13,14 @@ We have defined an Employee record with the following fields:
 4. phone: The phone number of the employee (String)
 5. address: The address of the employee (String).
 
+To setup project:->
+1. Clone this repositry
+2. Open the folder
+3. Open CLI then initialize npm by typing-> npm init
+4. Install npm libaries-> express, momgoose, body-parser
+5. open command line type -> npm i express mongoose body-parser
+6. You must have mongoDB installed in your computer. We have used MongoDB as a database.
+7. Run the project -> node app.js
 
-We have used MongoDB as a database.
 
 
